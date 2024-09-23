@@ -7,11 +7,11 @@
 
 <h2>📺 Popular Blog Posts</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Leveraging Threat Detection with Python: Automating Security Alerts](https://forestalsecurity.com/python-threat-detection-automation)
+- [Implementing Network Security Protocols: A Practical Guide Using NIST Cybersecurity Framework](https://forestalsecurity.comne/network-security-nist-guide)
+- [Mastering SIEM Tools: Real-Time Threat Monitoring and Analysis](https://forestalsecurity.com/python-threat-detection-automation)
+- [Proactive Incident Response: Lessons Learned from Real-World Cybersecurity Threats](https://forestalsecurity.com/incident-response-cyber-threats)
+- [Harden Your Linux Environment: Security Best Practices for System Administrators](https://forestalsecurity.com/linux-security-hardening-tips)
 
 <h2> 🤳 Connect with me:</h2>
 
