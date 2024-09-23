@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edith! <br/><a href="https://trinitywebagency.com">Web Developer</a>, <a href="https://www.linkedin.com/in/forestal/">Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Edith! <br/><a href="https://trinitywebagency.com">WordPress Developer</a>, <a href="https://www.linkedin.com/in/forestal/">Cybersecurity Analyst</a></h1>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
