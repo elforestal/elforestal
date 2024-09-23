@@ -11,7 +11,6 @@
 - [Implementing Network Security Protocols: A Practical Guide Using NIST Cybersecurity Framework](https://forestalsecurity.comne/network-security-nist-guide)
 - [Mastering SIEM Tools: Real-Time Threat Monitoring and Analysis](https://forestalsecurity.com/siem-tools)
 - [Proactive Incident Response: Lessons Learned from Real-World Cybersecurity Threats](https://forestalsecurity.com/incident-response-cyber-threats)
-- [Harden Your Linux Environment: Security Best Practices for System Administrators](https://forestalsecurity.com/linux-security-hardening-tips)
 
 <h2> 🤳 Connect with me:</h2>
 
