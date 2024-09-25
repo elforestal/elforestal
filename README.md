@@ -5,7 +5,7 @@
 - <b>Azure/ Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/elforestal/azure-soc)
 
-- <b>Azure/ Cloud Projects</b>
+- <b>Azure Vulnerability Management: Automated Threat Detection with OpenVAS</b>
   - [Azure Vulnerability Management & Remediation](https://github.com/elforestal/openvas)
 
 <h2>📺 Popular Blog Posts</h2>
