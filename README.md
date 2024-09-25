@@ -5,6 +5,9 @@
 - <b>Azure/ Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/elforestal/azure-soc)
 
+- <b>Azure/ Cloud Projects</b>
+  - [Azure Vulnerability Management & Remediation](https://github.com/elforestal/openvas)
+
 <h2>📺 Popular Blog Posts</h2>
 
 - [Leveraging Threat Detection with Python: Automating Security Alerts](https://forestalsecurity.com/python-threat-detection-automation)
