@@ -8,19 +8,10 @@
 - <b>Azure Vulnerability Management: Automated Threat Detection with OpenVAS</b>
   - [Azure Vulnerability Management & Remediation](https://github.com/elforestal/openvas)
 
-<h2>📺 Popular Blog Posts</h2>
-
-- [Leveraging Threat Detection with Python: Automating Security Alerts](https://forestalsecurity.com/python-threat-detection-automation)
-- [Implementing Network Security Protocols: A Practical Guide Using NIST Cybersecurity Framework](https://forestalsecurity.comne/network-security-nist-guide)
-- [Mastering SIEM Tools: Real-Time Threat Monitoring and Analysis](https://forestalsecurity.com/siem-tools)
-- [Proactive Incident Response: Lessons Learned from Real-World Cybersecurity Threats](https://forestalsecurity.com/incident-response-cyber-threats)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
 
 [linkedin]: https://linkedin.com/in/forestal
 [instagram]: https://www.instagram.com/fitforduty360
-[wordpress]: https://www.forestalsecurity.com
