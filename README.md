@@ -1,7 +1,7 @@
 <h1>Hi, I'm Edith Forestal! Security Analyst</h1>
 <a href="https://linkedin.com/in/forestal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a web application specialist with over 10 years of experience, specializing in cybersecurity and secure application development. My work focuses on integrating security best practices into web applications, threat detection, and vulnerability management. Passionate about staying ahead in this ever-evolving field, I use this space to showcase hands-on projects that reinforce security and innovation.
+I'm a web application enthusiast with over 10 years of experience in developing and securing web applications against malware, brute force attacks, downgrade exploits and more. My expertise lies in integrating security best practices, threat detection, and vulnerability management to build resilient applications. Passionate about staying ahead in this ever-evolving field, I use this space to showcase hands-on projects that blend innovation with cybersecurity.
 
 🚀 Explore my work, dive into my projects, and feel free to connect!
 
