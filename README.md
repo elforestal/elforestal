@@ -25,6 +25,7 @@ My experience in building and securing web applications has sparked a deep passi
 
 ## 📜 Certifications
 <div>
+<img src="https://img.shields.io/badge/-CEH-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-CYSA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
@@ -43,6 +44,8 @@ My experience in building and securing web applications has sparked a deep passi
 
 ### For Pentesting
 <div>
+    <img src="https://img.shields.io/badge/-Shellgpt-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot Security-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali Linux-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
