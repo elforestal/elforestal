@@ -13,6 +13,7 @@ My experience in building and securing web applications has sparked a deep passi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Developed a Live SOC W/ Real-time Threat Detection in Azure | [SIEM Alert Monitoring & Security Hardening](https://github.com/elforestal/azure-soc) |
+|Threat Hunting Scenario (Tor Browser Usage) | [Threat Hunting and Security Operations](https://github.com/elforestal/threat-hunting-scenario-tor/) |
 |Azure + OpenVas for vulnerability scanning and Remediation | [Vulnerability Detection With OpenVas](https://github.com/elforestal/openvas) |
 |Azure + Tenable + PowerShell for vulnerability scanning & Remediation | [Vulnerability Management](https://github.com/elforestal/tenable-vulnerability-scanning) |
 | Threat Hunting Using MITRE ATT&CK Framework | [Threat Hunting & Incident Response](https://github.com/elforestal/threat-hunting/) |
