@@ -8,7 +8,7 @@ I'm a cybersecurity professional with over 10 years of experience in developing 
 ## 🎯 Objective
 My experience in building and securing web applications has sparked a deep passion for cybersecurity. Now, I'm leveraging my technical background to transition into this field, focusing on threat detection, vulnerability management, and secure development practices.
 
-## 🛠 My Projects
+## 🛠 My Cloud/Cybersecurity Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
