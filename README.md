@@ -13,6 +13,7 @@ My experience in building and securing web applications has sparked a deep passi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Developed a Live SOC W/ Real-time Threat Detection in Azure (Live Traffic) | [SIEM Alert Monitoring & Security Hardening](https://github.com/elforestal/azure-soc) |
+|Creating Brute Force Detection Rule (Azure Security) | [Brute Force Detection Alert Rule for Azure Sentinel](https://github.com/elforestal/creating-brute-force-alert-rules/) |
 |Incident Response: Zero-Day Ransomware (PwnCrypt) | [Responding To A Zero Day Ransomware](https://github.com/elforestal/Zero-Day-Ransomware-PwnCrypt-Outbreak/) |
 |Threat Hunting Scenario: Dark Web Tor Browser Usage | [Unauthorized TOR Download and Usage](https://github.com/elforestal/threat-hunting-scenario-tor/) |
 |Azure + OpenVas for vulnerability scanning and Remediation | [Vulnerability Detection With OpenVas](https://github.com/elforestal/openvas) |
