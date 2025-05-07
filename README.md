@@ -13,7 +13,7 @@ My experience in building and securing web applications has sparked a deep passi
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 |Developed a Live SOC W/ Real-time Threat Detection in Azure (Live Traffic) | [SIEM Alert Monitoring & Security Hardening](https://github.com/elforestal/azure-soc) |
-|Threat Hunting Using MITRE ATT&CK Framework | [Data Exfiltration from PIP'd Employee](https://github.com/elforestal/threat-hunting/) |
+|MITRE ATT&CK-Based Threat Hunting: Detecting Data Exfiltration| [Data Exfiltration from PIP'd Employee](https://github.com/elforestal/threat-hunting/) |
 |Azure + Tenable + PowerShell for vulnerability scanning & Remediation | [Vulnerability Management](https://github.com/elforestal/tenable-vulnerability-scanning) |
 |Creating Brute Force Detection Rule (Azure Security) | [Brute Force Detection Alert Rule for Azure Sentinel](https://github.com/elforestal/creating-brute-force-alert-rules/) |
 |End-to-End Vulnerability Management Using Nessus & Azure | [Credentialed vs Non-Credentialed Scanning with Nessus](https://github.com/elforestal/Nessu--Vulnerability-scan/) |
