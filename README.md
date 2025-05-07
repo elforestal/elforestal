@@ -18,7 +18,7 @@ My experience in building and securing web applications has sparked a deep passi
 |Creating Brute Force Detection Rule (Azure Security) | [Brute Force Detection Alert Rule for Azure Sentinel](https://github.com/elforestal/creating-brute-force-alert-rules/) |
 |End-to-End Vulnerability Management Using Nessus & Azure | [Credentialed vs Non-Credentialed Scanning with Nessus](https://github.com/elforestal/Nessu--Vulnerability-scan/) |
 |Custom Rule for Identifying Remote Code Execution Threats | [RCE Threat Detection & Alert Rule Implementation](https://github.com/elforestal/remote-code-execution-detection/) |
-|Incident Response: Zero-Day Ransomware (PwnCrypt) | [Responding To A Zero Day Ransomware](https://github.com/elforestal/Zero-Day-Ransomware-PwnCrypt-Outbreak/) |
+|Incident Response & Containment of Zero-Day Ransomware Attack | [Responding To A Zero Day Ransomware](https://github.com/elforestal/Zero-Day-Ransomware-PwnCrypt-Outbreak/) |
 |Threat Hunting Scenario: Dark Web Tor Browser Usage | [Unauthorized TOR Download and Usage](https://github.com/elforestal/threat-hunting-scenario-tor/) |
 |Azure + OpenVas for vulnerability scanning and Remediation | [Vulnerability Detection With OpenVas](https://github.com/elforestal/openvas) |
 |Detecting Potential Impossible Travel Events with Custom Alert Rule | [Alert Rule for Unusual Geolocation Logins (Impossible Travel)](https://github.com/elforestal/impossible-travel/) |
