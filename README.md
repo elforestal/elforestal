@@ -21,6 +21,7 @@ My experience in building and securing web applications has sparked a deep passi
 |Threat Hunting Scenario: Dark Web Tor Browser Usage | [Unauthorized TOR Download and Usage](https://github.com/elforestal/threat-hunting-scenario-tor/) |
 |Azure + OpenVas for vulnerability scanning and Remediation | [Vulnerability Detection With OpenVas](https://github.com/elforestal/openvas) |
 |Detecting Potential Impossible Travel Events with Custom Alert Rule | [Alert Rule for Unusual Geolocation Logins (Impossible Travel)](https://github.com/elforestal/impossible-travel/) |
+|Threat Hunting: Investigating Sudden Network Slowdowns | [Identifying Network-Based Threats Through Latency Anomalies](https://github.com/elforestal/sudden-network-slowdown/) |
 
 ## 🎓 Education:
 
