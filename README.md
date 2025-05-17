@@ -32,15 +32,17 @@ My experience in building and securing web applications has sparked a deep passi
 
 ## 📜 Certifications
 <div>
+<img src="https://img.shields.io/badge/-CISM-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" /></a>    
+<img src="https://img.shields.io/badge/-MS 102-006400?&style=for-the-badge&logo=&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-SC 200-FF0000?&style=for-the-badge&logo=&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-SC 300-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a> 
+<img src="https://img.shields.io/badge/-AZ 500-006400?&style=for-the-badge&logo=&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-CEH-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-CYSA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security X/CASP%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-CSAP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-CSIE%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
-<img src="https://img.shields.io/badge/-CSAE%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Google Cybersecurity-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Google IT Support-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-CNVP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
