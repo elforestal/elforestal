@@ -12,6 +12,7 @@ My experience in building and securing web applications has sparked a deep passi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Data Encryption & Least-Privilege Access Control in AWS (KMS + IAM) | [Encrypting DynamoDB with a Customer-Managed KMS Key](https://github.com/elforestal/aws-kms-dynamodb-encryption) |
 |Developed a Live SOC W/ Real-time Threat Detection in Azure (Live Traffic) | [SIEM Alert Monitoring & Security Hardening](https://github.com/elforestal/azure-soc) |
 |MITRE ATT&CK-Based Threat Hunting: Detecting Data Exfiltration| [Data Exfiltration from PIP'd Employee](https://github.com/elforestal/threat-hunting/) |
 |Azure + Tenable + PowerShell for vulnerability scanning & Remediation | [Vulnerability Management](https://github.com/elforestal/tenable-vulnerability-scanning) |
