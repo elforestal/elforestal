@@ -1,12 +1,14 @@
-<h1>Hi, I'm Edith Forestal! Security Analyst</h1>
+<h1>Hi, I'm Edith Forestal 👋 — Security Analyst</h1>
+
 <a href="https://linkedin.com/in/forestal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a cybersecurity professional with over 10 years of experience in developing and securing web applications against malware, brute force attacks, downgrade exploits and more. My expertise lies in integrating security best practices, threat detection, and vulnerability management to improve an organization's security posture. Passionate about staying ahead in this ever-evolving field, I use this space to showcase hands-on projects that blend innovation with cybersecurity.
+I'm a cybersecurity professional with 10+ years of experience securing applications and infrastructure against threats like malware, brute-force attacks, and downgrade exploits. My strengths are in threat detection, vulnerability management, cloud security across AWS and Azure, and applying security best practices to strengthen an organization's overall posture. I use this space to showcase hands-on projects that turn those skills into practical, documented outcomes.
 
-🚀 Explore my work, dive into my projects, and feel free to connect!
+🚀 Explore my work, dive into the projects below, and feel free to connect!
 
-## 🎯 Objective
-My experience in building and securing web applications has sparked a deep passion for cybersecurity. Now, I'm leveraging my technical background to transition into this field, focusing on threat detection, vulnerability management, and secure development practices.
+## 🎯 Focus
+
+I'm deepening my security engineering skill set toward cloud and DevSecOps — bringing my detection, threat-hunting, and vulnerability-management background into cloud-native environments (AWS & Azure). My recent projects focus on secure cloud architecture, identity and access control, and detection engineering.
 
 ## 🛡️ Security & Cloud Projects
 
