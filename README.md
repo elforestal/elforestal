@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edith Forestal 👋 — Security Analyst</h1>
+<h1>Hi, I'm Edith Forestal, CISSP 👋 — Security Analyst</h1>
 
 <a href="https://linkedin.com/in/forestal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -35,6 +35,7 @@ I'm deepening my security engineering skill set toward cloud and DevSecOps — b
 
 ## 📜 Certifications
 <div>
+<img src="https://img.shields.io/badge/-CISSP-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a> 
 <img src="https://img.shields.io/badge/-CISM-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" /></a>    
 <img src="https://img.shields.io/badge/-MS 102-006400?&style=for-the-badge&logo=&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-SC 200-FF0000?&style=for-the-badge&logo=&logoColor=white" /></a>
