@@ -8,22 +8,22 @@ I'm a cybersecurity professional with over 10 years of experience in developing 
 ## 🎯 Objective
 My experience in building and securing web applications has sparked a deep passion for cybersecurity. Now, I'm leveraging my technical background to transition into this field, focusing on threat detection, vulnerability management, and secure development practices.
 
-## 🛠 My Cloud/Cybersecurity Projects
+## 🛡️ Security & Cloud Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Data Encryption & Least-Privilege Access Control in AWS (KMS + IAM) | [Encrypting DynamoDB with a Customer-Managed KMS Key](https://github.com/elforestal/aws-kms-dynamodb-encryption) |
-|Developed a Live SOC W/ Real-time Threat Detection in Azure (Live Traffic) | [SIEM Alert Monitoring & Security Hardening](https://github.com/elforestal/azure-soc) |
-|MITRE ATT&CK-Based Threat Hunting: Detecting Data Exfiltration| [Data Exfiltration from PIP'd Employee](https://github.com/elforestal/threat-hunting/) |
-|Azure + Tenable + PowerShell for vulnerability scanning & Remediation | [Vulnerability Management](https://github.com/elforestal/tenable-vulnerability-scanning) |
-|Creating Brute Force Detection Rule (Azure Security) | [Brute Force Detection Alert Rule for Azure Sentinel](https://github.com/elforestal/creating-brute-force-alert-rules/) |
-|End-to-End Vulnerability Management Using Nessus & Azure | [Credentialed vs Non-Credentialed Scanning with Nessus](https://github.com/elforestal/Nessu--Vulnerability-scan/) |
-|Custom Rule for Identifying Remote Code Execution Threats | [RCE Threat Detection & Alert Rule Implementation](https://github.com/elforestal/remote-code-execution-detection/) |
-|Incident Response & Containment of Zero-Day Ransomware Attack | [Responding To A Zero Day Ransomware](https://github.com/elforestal/Zero-Day-Ransomware-PwnCrypt-Outbreak/) |
-|Threat Hunting: Detection of Unauthorized TOR Browser Activity | [Unauthorized TOR Download and Usage](https://github.com/elforestal/threat-hunting-scenario-tor/) |
-|Azure + OpenVas for vulnerability scanning and Remediation | [Vulnerability Detection With OpenVas](https://github.com/elforestal/openvas) |
-|Impossible Travel Detection via Custom Azure Sentinel Alerts | [Alert Rule for Unusual Geolocation Logins (Impossible Travel)](https://github.com/elforestal/impossible-travel/) |
-|Threat Hunting: Investigating Sudden Network Slowdowns | [Identifying Network-Based Threats Through Latency Anomalies](https://github.com/elforestal/sudden-network-slowdown/) |
+| Domain | Project | Tech Stack |
+|--------|---------|------------|
+| ☁️ Cloud Security | [Encrypting DynamoDB with a Customer-Managed KMS Key](https://github.com/elforestal/aws-kms-dynamodb-encryption) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![KMS](https://img.shields.io/badge/KMS-C925D1?style=flat&logo=amazon-aws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazon-aws&logoColor=white) |
+| 🚨 Detection / SOC | [Live SOC with Real-Time Threat Detection](https://github.com/elforestal/azure-soc) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Sentinel](https://img.shields.io/badge/Sentinel-0072C6?style=flat&logo=microsoft&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-3999D6?style=flat) |
+| 🔎 Threat Hunting | [Data Exfiltration by a Departing Employee (MITRE ATT&CK)](https://github.com/elforestal/threat-hunting/) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![MDE](https://img.shields.io/badge/Defender-00A4EF?style=flat&logo=microsoft&logoColor=white) ![ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7253E?style=flat) |
+| 🔎 Threat Hunting | [Unauthorized TOR Browser Activity](https://github.com/elforestal/threat-hunting-scenario-tor/) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![MDE](https://img.shields.io/badge/Defender-00A4EF?style=flat&logo=microsoft&logoColor=white) ![ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C7253E?style=flat) |
+| 🔎 Threat Hunting | [Network Threats via Latency Anomalies](https://github.com/elforestal/sudden-network-slowdown/) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![MDE](https://img.shields.io/badge/Defender-00A4EF?style=flat&logo=microsoft&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-3999D6?style=flat) |
+| 📐 Detection Rule | [Brute-Force Detection Rule (Sentinel)](https://github.com/elforestal/creating-brute-force-alert-rules/) | ![Sentinel](https://img.shields.io/badge/Sentinel-0072C6?style=flat&logo=microsoft&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-3999D6?style=flat) |
+| 📐 Detection Rule | [Remote Code Execution (RCE) Detection](https://github.com/elforestal/remote-code-execution-detection/) | ![Sentinel](https://img.shields.io/badge/Sentinel-0072C6?style=flat&logo=microsoft&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-3999D6?style=flat) |
+| 📐 Detection Rule | [Impossible Travel Logins](https://github.com/elforestal/impossible-travel/) | ![Sentinel](https://img.shields.io/badge/Sentinel-0072C6?style=flat&logo=microsoft&logoColor=white) ![KQL](https://img.shields.io/badge/KQL-3999D6?style=flat) |
+| 🔧 Vuln Management | [Credentialed vs. Non-Credentialed Scanning (Nessus)](https://github.com/elforestal/Nessu--Vulnerability-scan/) | ![Nessus](https://img.shields.io/badge/Nessus-00A9CE?style=flat&logo=tenable&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+| 🔧 Vuln Management | [Scanning & Remediation (Tenable + PowerShell)](https://github.com/elforestal/tenable-vulnerability-scanning) | ![Tenable](https://img.shields.io/badge/Tenable-00558C?style=flat&logo=tenable&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
+| 🔧 Vuln Management | [Scanning & Remediation (OpenVAS)](https://github.com/elforestal/openvas) | ![OpenVAS](https://img.shields.io/badge/OpenVAS-4B8BBE?style=flat) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
+| 🚑 Incident Response | [Zero-Day Ransomware Outbreak Containment](https://github.com/elforestal/Zero-Day-Ransomware-PwnCrypt-Outbreak/) | ![Sentinel](https://img.shields.io/badge/Sentinel-0072C6?style=flat&logo=microsoft&logoColor=white) ![IR](https://img.shields.io/badge/Incident_Response-B71C1C?style=flat) ![NIST](https://img.shields.io/badge/NIST-455A64?style=flat) |
 
 ## 🎓 Education:
 
