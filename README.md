@@ -75,6 +75,7 @@ I'm deepening my security engineering skill set toward cloud and DevSecOps — b
 
 ### For Security Information and Event Management (SIEM)
 <div>
+    <img src="https://img.shields.io/badge/-Elastic%20Security-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
 </div>
