@@ -7,17 +7,17 @@
 ![CEH](https://img.shields.io/badge/CEH-EC1C24?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/forestal)
 
-Security professional with 10+ years defending enterprise identity, endpoint, and 
-hypervisor environments — now engineering security *into* cloud infrastructure rather 
-than monitoring it after the fact.
+Security engineer working across enterprise identity, endpoint, and hypervisor 
+environments — now building security *into* cloud infrastructure rather than 
+monitoring it after the fact.
 
-My work centers on least-privilege access control, encryption key governance, and 
+My focus is least-privilege access control, encryption key governance, and 
 secure-by-default infrastructure as code. Enterprise depth in Microsoft Sentinel, 
-Entra ID, and Intune; building the AWS and Terraform side in public, one documented 
-project at a time.
+Entra ID, Intune, and ESXi/vCenter; building the AWS and Terraform side in public, 
+one documented project at a time.
 
-🚀 Every project below includes the architecture, the security reasoning, and what I'd 
-do differently at scale.
+🚀 Every project below includes the architecture, the security reasoning, and what 
+I'd do differently at scale.
 
 ## 🛡️ Security & Cloud Projects
 
