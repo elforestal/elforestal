@@ -15,8 +15,12 @@ monitoring it after the fact.
 
 My focus is least-privilege access control, encryption key governance, and 
 secure-by-default infrastructure as code. Enterprise depth in Microsoft Sentinel, 
-Entra ID, Intune, and ESXi/vCenter; building the AWS and Terraform side in public, 
-one documented project at a time.
+Entra ID, Intune, and ESXi/vCenter, with compliance experience across PCI DSS, 
+GLBA, and ISO 27001 in regulated financial environments.
+
+I also design and operate production AI security tooling — serverless inference at 
+the edge, schema-constrained model output, and a published threat model covering 
+what it does and doesn't yet defend against.
 
 🚀 Every project below includes the architecture, the security reasoning, and what 
 I'd do differently at scale.
