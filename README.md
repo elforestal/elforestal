@@ -57,11 +57,16 @@ I'd do differently at scale.
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CloudFormation-E7157B?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware%20ESXi%2FvCenter-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cloudflare%20Workers-F38020?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+</div>
+
+### 🖥️ Virtualization & Enterprise Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-vCenter-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 ### 🔐 Identity & Access Management
