@@ -38,73 +38,62 @@ I'd do differently at scale.
 | 🔧 Vuln Management | [Scanning & Remediation (OpenVAS)](https://github.com/elforestal/openvas) | ![OpenVAS](https://img.shields.io/badge/OpenVAS-4B8BBE?style=flat) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
 | 🚑 Incident Response | [Zero-Day Ransomware Outbreak Containment](https://github.com/elforestal/Zero-Day-Ransomware-PwnCrypt-Outbreak/) | ![Sentinel](https://img.shields.io/badge/Sentinel-0072C6?style=flat&logo=microsoft&logoColor=white) ![IR](https://img.shields.io/badge/Incident_Response-B71C1C?style=flat) ![NIST](https://img.shields.io/badge/NIST-455A64?style=flat) |
 
-## 🎓 Education:
+## 🎓 Education
 
-🏅 M.S. in Cybsersecurity Information & Assurance - Western Governors Univ.
+🏅 **M.S. Cybersecurity & Information Assurance** — Western Governors University
 
-🏅 B.S. in Criminal Justice - Defiance College
+🏅 **B.S. Criminal Justice** — Defiance College
 
-## 📜 Certifications
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infrastructure as Code
 <div>
-<img src="https://img.shields.io/badge/-CISSP-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a> 
-<img src="https://img.shields.io/badge/-CISM-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" /></a>    
-<img src="https://img.shields.io/badge/-MS 102-006400?&style=for-the-badge&logo=&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-SC 200-FF0000?&style=for-the-badge&logo=&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-SC 300-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a> 
-<img src="https://img.shields.io/badge/-AZ 500-006400?&style=for-the-badge&logo=&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-CEH-007ACC?&style=for-the-badge&logo=EC-Council&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-CYSA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Security X/CASP%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Google Cybersecurity-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-Google IT Support-4D4D4D?&style=for-the-badge&logo=&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-CNVP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a> 
-<img src="https://img.shields.io/badge/-CNSP%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?&style=for-the-badge&logo=terraform&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20ESXi%2FvCenter-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
 </div>
 
-## 🧰 Tools I Use:
-
-### For Pentesting
+### 🔐 Identity & Access Management
 <div>
-    <img src="https://img.shields.io/badge/-Shellgpt-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Parrot Security-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali Linux-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NMAP-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John The Ripper-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Metasploit-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20IAM-DD344C?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20KMS-DD344C?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=microsoftentraid&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Intune-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
-### For Endpoint Protection
+### 🛰️ Detection Engineering & SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Security-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20GuardDuty-DD344C?&style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </div>
 
-### For Security Information and Event Management (SIEM)
+### 🛡️ Endpoint & Threat Protection
 <div>
-    <img src="https://img.shields.io/badge/-Elastic%20Security-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike-E01A22?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
 </div>
 
-### For Security Assessment
+### 📋 Frameworks & Compliance
 <div>
-    <img src="https://img.shields.io/badge/-OSWAP Top 10-FF0000?&style=for-the-badge&logo=atomic-red-team&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CIS Benchmark-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NIST 800 53-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST%20800--53-1F4E79?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CIS%20Benchmarks-2E6DBF?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20Top%2010-FF0000?&style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
-### For Vulnerability Scanning
+### 🔍 Vulnerability Management & Offensive Security
 <div>
-    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVas-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
-</div>
-
-### For Cloud/VM Deployment
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenVAS-3E4D88?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
 </div>
