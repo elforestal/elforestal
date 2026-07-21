@@ -79,12 +79,18 @@ I'd do differently at scale.
 ### 🛡️ Endpoint & Threat Protection
 <div>
     <img src="https://img.shields.io/badge/-Defender%20for%20Endpoint-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CrowdStrike-E01A22?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Trellix-C8102E?&style=for-the-badge&logo=&logoColor=white" />
 </div>
 
 ### 📋 Frameworks & Compliance
 <div>
     <img src="https://img.shields.io/badge/-NIST%20800--53-1F4E79?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST%20CSF-1F4E79?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO%2027001-005A9C?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PCI%20DSS-16478E?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GLBA-2E5C3E?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FFIEC%20CAT-2E5C3E?&style=for-the-badge&logo=&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SOX%20ITGC-6B4423?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-CIS%20Benchmarks-2E6DBF?&style=for-the-badge&logo=&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP%20Top%2010-FF0000?&style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
