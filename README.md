@@ -2,7 +2,8 @@
 
 [![CISSP](https://img.shields.io/badge/CISSP-A100FF?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/81df1d7e-8e81-41f2-b986-471d676b7705/)
 [![CISM](https://img.shields.io/badge/CISM-1F6FEB?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/361db8c4-13ed-4e0c-a698-0f892ce312b4)
-[![SecurityX](https://img.shields.io/badge/SecurityX%20(CASP%2B)-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/590cbc95-723b-4b6a-b980-1b4af3bab9a7)
+[![CEH](https://img.shields.io/badge/CEH-EC1C24?style=for-the-badge&logoColor=white)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=Y4UYUjgNUyisO21EWgIO7VGy62tkpWJpgEcxC09O7/g=)
+[![Security+](https://img.shields.io/badge/Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/e2b27dd5-c6dd-4fe8-a23e-79142b3d05f5)
 [![AZ--500](https://img.shields.io/badge/AZ--500-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/elforestal-7594/credentials/90f5860ed53a5501)
 [![SC--300](https://img.shields.io/badge/SC--300-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/elforestal-7594/credentials/e2571108ce224c5f)
 [![SC--200](https://img.shields.io/badge/SC--200-005A9E?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/users/elforestal-7594/credentials/527d6a9601adfb33)
