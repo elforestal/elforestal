@@ -1,4 +1,5 @@
-# Hi, I'm Edith Forestal 👋 — Cloud Security & DevSecOps Engineer
+# Hi, I'm Edith Forestal 👋
+🧠 Focused on Cloud and AI security, threat detection, security automation, and vulnerability management.
 
 [![CISSP](https://img.shields.io/badge/CISSP-A100FF?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/81df1d7e-8e81-41f2-b986-471d676b7705/)
 [![CISM](https://img.shields.io/badge/CISM-1F6FEB?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/361db8c4-13ed-4e0c-a698-0f892ce312b4)
